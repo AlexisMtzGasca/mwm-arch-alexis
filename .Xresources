@@ -47,3 +47,13 @@ XClock*minuteColor: rgba:01/00/00/ff
 XClock*secondColor: rgba:01/00/00/ff
 
 URxvt*depth: 32
+Mwm*background: #8a8a8a
+Mwm*activeBackground: #8a8a8a
+Mwm*topShadowColor: #000000
+Mwm*bottomShadowColor: #000000
+Mwm*foreground: #000000
+Mwm*activeForeground: #000000
+Mwm*menu*fontList: lucidasans-10
+Mwm*title*fontList: lucidasans-10
+Mwm*resizeBorderWidth:          4
+Mwm*frameBorderWidth:           4
