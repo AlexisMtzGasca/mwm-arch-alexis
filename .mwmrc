@@ -43,7 +43,7 @@ Menu DefaultRootMenu
 {
 	"Alexis"		f.title
 	"New Window"		f.exec "st &"
-	"Internet Browser"		f.exec "google-chrome-stable &"
+	"Internet Browser"	f.exec "firefox &"
 	"Shuffle Up"		f.circle_up
 	"Shuffle Down"		f.circle_down
 	"Refresh"		f.refresh
@@ -53,19 +53,6 @@ Menu DefaultRootMenu
 	"Restart..."		f.restart
 	"Quit..."		f.quit_mwm
 
-}
-
-Menu RootMenu_1.1
-{
-	"Root Menu"		f.title
-	"New Window"		f.exec "xterm &"
-	"Shuffle Up"		f.circle_up
-	"Shuffle Down"		f.circle_down
-	"Refresh"		f.refresh
-!	"Pack Icons"		f.pack_icons
-!	"Toggle Behavior"	f.set_behavior
-	no-label		f.separator
-	"Restart..."		f.restart
 }
 
 !!
