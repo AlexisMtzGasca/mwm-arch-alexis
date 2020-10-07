@@ -1,4 +1,4 @@
-#[MWM] Cool 90's sense
+# [MWM] Cool 90's sense
 
 ![alt text](https://github.com/AlexisMtzGasca/mwm-arch-alexis/blob/main/screenshot.png?raw=true)
 
