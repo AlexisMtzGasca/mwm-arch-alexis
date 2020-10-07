@@ -1,5 +1,4 @@
 #!/bin/sh
-xrdb -merge $HOME/.Xdefaults
 xrdb -merge $HOME/.Xresources
 xclock -digital -geometry 230x30-1+1 &
 xlogo -geometry 100x100-1+130 &
