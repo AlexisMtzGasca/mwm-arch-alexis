@@ -1,3 +1,1 @@
-cat ~/.cache/wal/sequences
-#export PS1="💋 \W ❯ "
 export PS1="[ \w ] "
